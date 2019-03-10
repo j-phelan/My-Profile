@@ -78,7 +78,6 @@
 <p>If this project is successful, the reduction in paper waste in Australia will be significant. Combined with that, there would be a reduction in the time taken for patients to be prescribed and then dispensed medication, thus reducing wait time in pharmacies and doctors&rsquo; practices. The aging population we have would be a significant challenge to transfer over to modern electronic services, however over a long enough timescale paper could eventually be phased out completely in the prescription of medication in our country. The system could be modified and implemented into other country&rsquo;s healthcare systems, greatly increasing the positive impact seen through the reduction in paper waste.</p>
 # References
 <p>Australia's Health 2018. (2018). Canberra: Australian Institute of Health and Welfare, p.400.</p><br>
-</br>
 <p><a href="https://www.16personalities.com/free-personality-test">Myer Briggs Personality Test</a></p>
 <p><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Learning Style Test</a></p>
 <p><a href="https://www.skillsyouneed.com/ls/index.php/343479/lang/en/newtest/Y">Interpersonal Skills Self Assessment</a></p>
