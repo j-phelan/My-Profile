@@ -1,6 +1,6 @@
 # Student ID: s3795086
 # Email: <a href="mailto:s3795086@student.rmit.edu.au">s3795086@student.rmit.edu.au</a>
-## Bio: 
+# Bio: 
 <p>Currently studying a Bachelor of Business (Finance) through RMIT, living on the Central Coast of NSW where I've called home all my life. I enjoy skateboarding, snowboarding &amp; camping in my spare time.</p>
 # IT Interest
 <p>My interest in IT is based around the instant connectedness the world now shares because of the invention of the internet. The ability to communicate with anyone, anytime at any place around the globe is an amazing human achievement. When you consider how the world operated and communicated only 30 years ago, experiencing the IT-based world we now live in is something I am very grateful for. My current interest in IT revolves around staying up to date with modern applications and trends that businesses can utilise to stay relevant and grow in the modern business environment.</p>
@@ -9,10 +9,7 @@
 <p>My decision to study at RMIT was based around the degree choices that were offered by different Universities allowing distance education, combined with the perception I had of how different Universities would be perceived by future employers. I am a believer that a degree attained through RMIT will hold a high standard when starting out a career in my chosen field.</p>
 <p>In my studies through RMIT I hope to learn how IT can assist with the performance and growth of companies in the modern day business environment. Teamwork and collaboration are two areas I have a constant experience with in my current career, and will continue to utilise throughout my working life.</p>
 # Ideal Job
-<p>&nbsp;</p>
-<p>&nbsp;<video controls="controls" width="300" height="150">
-<source src="http://oi65.tinypic.com/72r8t3.jpg" /></video></p>
-<p><a href="https://www.seek.com.au/job/38433099?type=standard&amp;searchRequestToken=ca2485ec-0ec1-48a4-a64a-7881b1c8d811">https://www.seek.com.au/job/38433099?type=standard&amp;searchRequestToken=ca2485ec-0ec1-48a4-a64a-7881b1c8d811</a></p>
+<p><img src="http://oi65.tinypic.com/72r8t3.jpg" alt="Business Analyst Job Advertisement"></p>
 <p>The primary function of a Business Analyst is to provide experienced advice on how businesses can improve efficiency and grow. Through the use of data analysis and developing new business models, work can be streamlined to provide businesses with higher returns and productivity. The appeal of being able to take a third person view of a company to assess where improvements can be made, communicate with teams to achieve common goals and ultimately make long term differences makes this career an ideal prospect for my future.&nbsp;</p>
 <p>Minimum qualifications for a Business Analyst generally include a bachelor&rsquo;s degree in business, finance or IT, while the skills needed may include detailed reporting, data analysis, strategic planning, budgeting, strong communication and financial modelling. To move into a senior role as a Business Analyst would require many years&rsquo; experience with a proven record of success in previous roles.</p>
 <p>I am currently completing my Bachelor of Business (Finance) while working full time in retail management. The current relevant skills I utilise in my career include leadership, communication, reporting, planning and coaching. The combination of my current studies and work experience will provide me with the necessary skills and education to change career into a business analyst, while moving into a senior role will be achieved once experience is gained in the new career path.&nbsp;</p>
