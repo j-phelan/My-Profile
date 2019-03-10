@@ -1,5 +1,5 @@
 # Student ID: s3795086
-# nbsp; Email: <a href="mailto:s3795086@student.rmit.edu.au">s3795086@student.rmit.edu.au</a>
+# Email: <a href="mailto:s3795086@student.rmit.edu.au">s3795086@student.rmit.edu.au</a>
 ## Bio: 
 <p>Currently studying a Bachelor of Business (Finance) through RMIT, living on the Central Coast of NSW where I've called home all my life. I enjoy skateboarding, snowboarding &amp; camping in my spare time.</p>
 # IT Interest
