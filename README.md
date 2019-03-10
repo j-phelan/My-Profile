@@ -10,7 +10,7 @@
 <p>In my studies through RMIT I hope to learn how IT can assist with the performance and growth of companies in the modern day business environment. Teamwork and collaboration are two areas I have a constant experience with in my current career, and will continue to utilise throughout my working life.</p>
 # Ideal Job
 <p><img src="http://oi65.tinypic.com/72r8t3.jpg" alt="Business Analyst Job Advertisement" style="width:350px;height:422px;"></p>
-<p><a href="https://www.seek.com.au/job/38433099?type=standard&amp;searchRequestToken=ca2485ec-0ec1-48a4-a64a-7881b1c8d811">https://www.seek.com.au/job/38433099?type=standard&amp;searchRequestToken=ca2485ec-0ec1-48a4-a64a-7881b1c8d811</a></p>
+<p><a href="https://www.seek.com.au/job/38433099?type=standard&amp;searchRequestToken=ca2485ec-0ec1-48a4-a64a-7881b1c8d811">Senior Business Analyst </a></p>
 <p>The primary function of a Business Analyst is to provide experienced advice on how businesses can improve efficiency and grow. Through the use of data analysis and developing new business models, work can be streamlined to provide businesses with higher returns and productivity. The appeal of being able to take a third person view of a company to assess where improvements can be made, communicate with teams to achieve common goals and ultimately make long term differences makes this career an ideal prospect for my future.&nbsp;</p>
 <p>Minimum qualifications for a Business Analyst generally include a bachelor&rsquo;s degree in business, finance or IT, while the skills needed may include detailed reporting, data analysis, strategic planning, budgeting, strong communication and financial modelling. To move into a senior role as a Business Analyst would require many years&rsquo; experience with a proven record of success in previous roles.</p>
 <p>I am currently completing my Bachelor of Business (Finance) while working full time in retail management. The current relevant skills I utilise in my career include leadership, communication, reporting, planning and coaching. The combination of my current studies and work experience will provide me with the necessary skills and education to change career into a business analyst, while moving into a senior role will be achieved once experience is gained in the new career path.&nbsp;</p>
@@ -77,8 +77,8 @@
 ## Outcome
 <p>If this project is successful, the reduction in paper waste in Australia will be significant. Combined with that, there would be a reduction in the time taken for patients to be prescribed and then dispensed medication, thus reducing wait time in pharmacies and doctors&rsquo; practices. The aging population we have would be a significant challenge to transfer over to modern electronic services, however over a long enough timescale paper could eventually be phased out completely in the prescription of medication in our country. The system could be modified and implemented into other country&rsquo;s healthcare systems, greatly increasing the positive impact seen through the reduction in paper waste.</p>
 # References
-<p>Australia's health 2018. (2018). Canberra: Australian Institute of Health and Welfare, p.400.</p>
+<p>Australia's Health 2018. (2018). Canberra: Australian Institute of Health and Welfare, p.400.</p>
 # Test sources
-<p><a href="Myer-Briggs Personality Test">https://www.16personalities.com/free-personality-test</a></p>
-<p><a href="Learning Style Test">http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</a></p>
-<p><a href="Interpersonal Skills Self Assessment">https://www.skillsyouneed.com/ls/index.php/343479/lang/en/newtest/Y</a></p>
+<p><a href="https://www.16personalities.com/free-personality-test">Myer Briggs Personality Test</a></p>
+<p><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Learning Style Test</a></p>
+<p><a href="https://www.skillsyouneed.com/ls/index.php/343479/lang/en/newtest/Y">Interpersonal Skills Self Assessment</a></p>
