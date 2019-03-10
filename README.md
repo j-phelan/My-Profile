@@ -1,12 +1,12 @@
-#<p>Student ID: s3795086&nbsp; Email: <a href="mailto:s3795086@student.rmit.edu.au">s3795086@student.rmit.edu.au</a></p>
+# <p>Student ID: s3795086&nbsp; Email: <a href="mailto:s3795086@student.rmit.edu.au">s3795086@student.rmit.edu.au</a></p>
 <p>Bio: Currently studying a Bachelor of Business (Finance) through RMIT, living on the Central Coast of NSW where I've called home all my life. I enjoy skateboarding, snowboarding &amp; camping in my spare time.</p>
-#<p><strong>IT INTEREST</strong></p>
+# <p><strong>IT INTEREST</strong></p>
 <p>My interest in IT is based around the instant connectedness the world now shares because of the invention of the internet. The ability to communicate with anyone, anytime at any place around the globe is an amazing human achievement. When you consider how the world operated and communicated only 30 years ago, experiencing the IT-based world we now live in is something I am very grateful for. My current interest in IT revolves around staying up to date with modern applications and trends that businesses can utilise to stay relevant and grow in the modern business environment.</p>
 <p>The experience I have had with IT began through school at a young age. From the early years of primary school, we were allotted time for computer classes where we would learn basic operations of computers, different things you could do with them and beginner typing. This continued throughout&nbsp;all my years at school, with the internet becoming the main source of information relating to studying and where I got to experience the growth of the world wide web to what it is today.</p>
 <p>In later years of school, I had managed to learn basic image editing through Photoshop, management of IRC channels revolved around gaming and beginner HTML. Originally having the idea to pursue the career of a web designer, I lost interest after school and only now, years later, I have decided to continue on studying</p>
 <p>My decision to study at RMIT was based around the degree choices that were offered by different Universities allowing distance education, combined with the perception I had of how different Universities would be perceived by future employers. I am a believer that a degree attained through RMIT will hold a high standard when starting out a career in my chosen field.</p>
 <p>In my studies through RMIT I hope to learn how IT can assist with the performance and growth of companies in the modern day business environment. Teamwork and collaboration are two areas I have a constant experience with in my current career, and will continue to utilise throughout my working life.</p>
-#<p><strong>IDEAL JOB</strong></p>
+# <p><strong>IDEAL JOB</strong></p>
 <p>&nbsp;</p>
 <p>&nbsp;<video controls="controls" width="300" height="150">
 <source src="http://oi65.tinypic.com/72r8t3.jpg" /></video></p>
